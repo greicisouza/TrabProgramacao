@@ -1,0 +1,11 @@
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\bin\Debug\netcoreapp2.1\TrabProg_1Bim.deps.json
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\bin\Debug\netcoreapp2.1\TrabProg_1Bim.runtimeconfig.json
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\bin\Debug\netcoreapp2.1\TrabProg_1Bim.runtimeconfig.dev.json
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\bin\Debug\netcoreapp2.1\TrabProg_1Bim.dll
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\bin\Debug\netcoreapp2.1\TrabProg_1Bim.pdb
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\obj\Debug\netcoreapp2.1\TrabProg_1Bim.csprojAssemblyReference.cache
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\obj\Debug\netcoreapp2.1\TrabProg_1Bim.csproj.CoreCompileInputs.cache
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\obj\Debug\netcoreapp2.1\TrabProg_1Bim.AssemblyInfoInputs.cache
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\obj\Debug\netcoreapp2.1\TrabProg_1Bim.AssemblyInfo.cs
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\obj\Debug\netcoreapp2.1\TrabProg_1Bim.dll
+C:\Users\greic\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Attachments\TrabalhoProg_1Bim\TrabProg_1Bim\TrabProg_1Bim\obj\Debug\netcoreapp2.1\TrabProg_1Bim.pdb
